@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>106530865971-96qmlvmjrs9idmqf6kikvo9o6ta888s8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.106530865971-96qmlvmjrs9idmqf6kikvo9o6ta888s8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCT5fBgJye7xkRh46cT8ylFYSiik7e0fLE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>106530865971</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>PROJECT_ID</key>
+	<string>optimags-youtube</string>
+	<key>STORAGE_BUCKET</key>
+	<string>optimags-youtube.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:106530865971:ios:7b979f075a41cf00</string>
+	<key>DATABASE_URL</key>
+	<string>https://optimags-youtube.firebaseio.com</string>
+</dict>
+</plist>
